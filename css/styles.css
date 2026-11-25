@@ -335,14 +335,12 @@ a.redLink:focus {
 }
 
 .sale-banner {
-  max-width: 100vw !important;
-  margin-left: auto;
-  margin-right: auto;
-} 
+  width: 100% !important;
+}
 
 .sale-banner img {
-    max-width: 100% !important;
-    min-width: 0 !important;
+    width: 100% !important;
+    height: auto !important;
     display: block;
 }
 
