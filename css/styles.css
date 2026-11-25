@@ -335,6 +335,7 @@ a.redLink:focus {
 }
 
 .sale-banner {
+  fit-content;cover;
   max-width:100vw;
   margin-left: auto;
   margin-right: auto;
