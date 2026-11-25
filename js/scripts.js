@@ -1,4 +1,3 @@
-<script>
 /*
  * WME HOMEPAGE STYLING
  * Runs on the live homepage and dev-testing page.
@@ -204,10 +203,6 @@
     document.head.appendChild(style);
 
 })();
-</script>
-
-
-<script>
 /*
  * WME SITEWIDE SHELL
  *
@@ -609,10 +604,6 @@
 
 
 })();
-</script>
-
-
-<script>
 /*
  * WME LEGACY PRODUCT ADAPTER
  *
@@ -721,11 +712,6 @@
     }
 
 })();
-</script>
-
-
-
-<script>
 /*
  * WME PRODUCT PAGE
  * Detects LikeSew product pages from the product DOM
@@ -914,4 +900,3 @@ if (pricing && !pricing.querySelector(".wme-in-store-notice")) {
     }
 
 })();
-</script>
